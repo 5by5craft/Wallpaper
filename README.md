@@ -1,4 +1,4 @@
 Wallpaper
 =========
 
-Custom maps made with ImageToMap. Viewable with MCEdit.
+Custom in-game maps (the kind you hang in item frames) made with ImageToMap.
